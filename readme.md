@@ -12,7 +12,7 @@ Hi i'm Ehan some goon
 
 <br/>  
 
-<div align="center"><img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=18jxgm43unbwazjz6xzsdkuab&width={width})" /></div>  
+<div align="center"><img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=18jxgm43unbwazjz6xzsdkuab&width={100})" /></div>  
 
 <br/>  
 
