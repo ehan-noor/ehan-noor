@@ -5,7 +5,7 @@ Hi i'm Ehan some goon
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ehan-noor&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ehan-noor?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <br/>  
 
