@@ -5,7 +5,7 @@ Hi i'm Ehan some goon
 
 
 ## Github Stats  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ehan-noor?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<div align="center">[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ehan-noor?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <br/>  
 
