@@ -5,17 +5,18 @@ Hi i'm Ehan some goon
 
 
 ## Github Stats  
+<!-- Center the stats image (wrapped in a link) -->
+<div align="center">
+  <a href="https://git.io/awesome-stats-card" target="_blank">
+    <img
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/ehan-noor?cardType=github&theme=github-dark&fontFamily=&preferLogin=false"
+      alt="My Awesome Stats"
+      style="display:block;margin:0 auto;"
+    />
+  </a>
+</div>
 
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ehan-noor?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-
-
-<br/>  
-
-<div align="center"><img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=18jxgm43unbwazjz6xzsdkuab&width={100})" /></div>  
-
-<br/>  
-
+<br/>
 
 ## Connect with me  
 <div align="center">
@@ -31,4 +32,14 @@ Hi i'm Ehan some goon
 </div>  
   
 
+<br/>  
 
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
